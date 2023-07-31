@@ -1,4 +1,4 @@
-*.jsp
-*.php
-*.py
-*.txt
+.jsp
+.php
+.py
+.txt
