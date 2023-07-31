@@ -27,5 +27,5 @@ public class Exercise6 {
   System.out.println(num1 + " mod " + num2 + " = " + 
   (num1 % num2));
  }
- 
+addtion
 }
